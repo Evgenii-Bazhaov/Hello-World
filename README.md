@@ -42,8 +42,7 @@ ContosoArchives.
 [Ref](https://docs.microsoft.com/en-us/powershell/module/azure.storage/start-azurestorageblobcopy?view=azurermps)
 
 
-#### Q88. (Exam Topic 3)
-You are a developer for a SaaS company that offers many web services. All web services for the company must meet the following requirements:
+#### Q88. You are a developer for a SaaS company that offers many web services. All web services for the company must meet the following requirements:
 Use API Management to access the services Use OpenID Connect for authentication Prevent anonymous usage A recent security audit found that several web services can be called without any authentication.
 Which API Management policy should you implement?
 
